@@ -1,4 +1,4 @@
-<h1> Welcome to my profile </h1>
+<h1 allign="center"> Welcome to my profile </h1>
 * 👂 My name is Kristian Reiツツ
 * 👩 Pronouns: SpeedDemon
 * 🔭 I’m currently Working on DivineWord College of Legazpi
